@@ -306,6 +306,7 @@ const NavContainer = memo(function NavContainer() {
             'absolute left-0 right-0 h-screen',
             'px-5 pl-5 py-16',
             'top-[0px]',
+            'w-[0px]',
             'bg-scale-200',
             // desktop styles
             'lg:relative lg:top-0 lg:left-0 lg:pb-10 lg:px-10 lg:pt-0 lg:flex',
